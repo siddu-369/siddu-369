@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @siddu-369
 - 👀 I’m interested in FullStackDevelopment. Have little knowledge in MERN stack.
 - 🌱 I’m currently learning how to code and improve my career further in web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on new and intresting projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is fun :)
 
